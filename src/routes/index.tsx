@@ -51,16 +51,16 @@ function Index() {
       {/* Dark purple / black cinematic overlays */}
       <div
         aria-hidden
-        className="absolute inset-0 bg-[radial-gradient(120%_85%_at_50%_45%,oklch(0.16_0.05_300/0.72)_0%,oklch(0.09_0.03_290/0.92)_55%,oklch(0.04_0.01_285/0.98)_100%)]"
+        className="absolute inset-0 bg-[radial-gradient(120%_85%_at_50%_45%,oklch(0.18_0.06_300/0.35)_0%,oklch(0.10_0.04_292/0.68)_55%,oklch(0.05_0.02_285/0.9)_100%)]"
       />
       <div
         aria-hidden
-        className="absolute inset-0 bg-[linear-gradient(180deg,oklch(0.05_0.02_285/0.92)_0%,oklch(0.08_0.03_295/0.5)_35%,oklch(0.06_0.02_290/0.7)_65%,oklch(0.03_0.01_285/0.97)_100%)]"
+        className="absolute inset-0 bg-[linear-gradient(180deg,oklch(0.06_0.02_285/0.72)_0%,oklch(0.09_0.04_295/0.35)_35%,oklch(0.07_0.03_290/0.5)_65%,oklch(0.04_0.01_285/0.88)_100%)]"
       />
       {/* Warm ember bloom low-center, like the reference */}
       <div
         aria-hidden
-        className="absolute inset-x-0 bottom-0 h-[55%] bg-[radial-gradient(70%_100%_at_50%_100%,oklch(0.55_0.14_45/0.32)_0%,transparent_70%)]"
+        className="absolute inset-x-0 bottom-0 h-[55%] bg-[radial-gradient(70%_100%_at_50%_100%,oklch(0.55_0.14_45/0.26)_0%,transparent_70%)]"
       />
 
       <Motes />
@@ -68,10 +68,10 @@ function Index() {
       {/* Content */}
       <section className="relative z-10 mx-auto flex w-full max-w-[26rem] flex-col items-center px-6 py-16 text-center sm:max-w-2xl md:max-w-3xl md:py-20 lg:max-w-5xl xl:max-w-6xl">
         <h1 className="font-display font-extrabold tracking-tight">
-          <span className="block text-[clamp(2.75rem,12.5vw,4rem)] leading-[1.02] text-foreground text-glow-white md:text-[clamp(4rem,7.5vw,6rem)] lg:text-[clamp(5rem,6.5vw,7.5rem)]">
+          <span className="block whitespace-nowrap text-[clamp(2.1rem,10.4vw,4rem)] leading-[1.02] tracking-[-0.02em] text-foreground text-glow-white md:text-[clamp(4rem,7.5vw,6rem)] lg:text-[clamp(5rem,6.5vw,7.5rem)]">
             Animated Worlds.
           </span>
-          <span className="mt-2 block bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(2.4rem,11vw,3.6rem)] leading-[1.05] text-transparent text-glow-gold md:mt-3 md:text-[clamp(3.6rem,6.8vw,5.4rem)] lg:text-[clamp(4.5rem,5.9vw,6.75rem)]">
+          <span className="mt-1.5 block whitespace-nowrap bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(1.9rem,9.3vw,3.6rem)] leading-[1.08] tracking-[-0.02em] text-transparent text-glow-gold md:mt-3 md:text-[clamp(3.6rem,6.8vw,5.4rem)] lg:text-[clamp(4.5rem,5.9vw,6.75rem)]">
             Own Them Forever.
           </span>
         </h1>
