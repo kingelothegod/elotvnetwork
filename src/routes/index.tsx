@@ -68,15 +68,15 @@ function Index() {
       {/* Content */}
       <section className="relative z-10 mx-auto flex w-full max-w-[26rem] flex-col items-center px-6 py-16 text-center sm:max-w-2xl md:max-w-3xl md:py-20 lg:max-w-5xl xl:max-w-6xl">
         <h1 className="font-display font-extrabold tracking-tight">
-          <span className="block whitespace-nowrap text-[clamp(2.1rem,10.4vw,4rem)] leading-[1.02] tracking-[-0.02em] text-foreground text-glow-white md:text-[clamp(4rem,7.5vw,6rem)] lg:text-[clamp(5rem,6.5vw,7.5rem)]">
+          <span className="block whitespace-nowrap text-[clamp(1.75rem,8.6vw,3.25rem)] leading-[1.02] tracking-[-0.02em] text-foreground text-glow-white md:text-[clamp(4rem,7.5vw,6rem)] lg:text-[clamp(5rem,6.5vw,7.5rem)]">
             Animated Worlds.
           </span>
-          <span className="mt-1.5 block whitespace-nowrap bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(1.9rem,9.3vw,3.6rem)] leading-[1.08] tracking-[-0.02em] text-transparent text-glow-gold md:mt-3 md:text-[clamp(3.6rem,6.8vw,5.4rem)] lg:text-[clamp(4.5rem,5.9vw,6.75rem)]">
+          <span className="mt-1.5 block whitespace-nowrap bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(1.6rem,7.8vw,3rem)] leading-[1.08] tracking-[-0.02em] text-transparent text-glow-gold md:mt-3 md:text-[clamp(3.6rem,6.8vw,5.4rem)] lg:text-[clamp(4.5rem,5.9vw,6.75rem)]">
             Own Them Forever.
           </span>
         </h1>
 
-        <p className="mt-8 max-w-[22rem] text-balance text-[1.0625rem] leading-[1.75] text-muted-foreground sm:max-w-xl sm:text-lg md:mt-10 md:max-w-2xl md:text-xl lg:max-w-3xl lg:text-2xl lg:leading-[1.7]">
+        <p className="mt-8 max-w-[21rem] text-balance text-[1.0625rem] leading-[1.75] text-muted-foreground sm:max-w-xl sm:text-lg md:mt-10 md:max-w-2xl md:text-xl lg:max-w-3xl lg:text-2xl lg:leading-[1.7]">
           Discover amazing animated movies and TV shows from talented creators. Purchase once and
           unlock forever even if the Internet goes dark
         </p>
