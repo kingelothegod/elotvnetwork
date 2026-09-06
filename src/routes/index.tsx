@@ -82,9 +82,9 @@ function Index() {
         </p>
 
         <div className="mt-7 flex w-full flex-col items-center md:mt-9">
-          <span className="badge-glass inline-flex w-full max-w-[15rem] items-center justify-center gap-2 rounded-full px-4 py-2.5 sm:w-auto sm:max-w-none md:px-5 md:py-3">
-            <Sparkles className="size-3 shrink-0 text-gold md:size-3.5" aria-hidden />
-            <span className="text-[0.625rem] font-semibold tracking-[0.22em] text-gold md:text-[0.6875rem] lg:text-xs">
+          <span className="badge-glass inline-flex w-full max-w-[12rem] items-center justify-center gap-1.5 rounded-full px-3 py-2 sm:w-auto sm:max-w-none md:px-5 md:py-3 md:gap-2">
+            <Sparkles className="size-2.5 shrink-0 text-gold md:size-3.5" aria-hidden />
+            <span className="text-[0.55rem] font-semibold tracking-[0.22em] text-gold md:text-[0.6875rem] lg:text-xs">
               INTRODUCING ELOTV
             </span>
           </span>
