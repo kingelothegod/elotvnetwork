@@ -82,9 +82,9 @@ function Index() {
         </p>
 
         <div className="mt-7 flex w-full flex-col items-center md:mt-9">
-          <span className="badge-glass inline-flex w-full max-w-[15rem] items-center justify-center gap-2 rounded-full px-4 py-2.5 sm:w-auto sm:max-w-none md:px-5 md:py-3">
-            <Sparkles className="size-3 shrink-0 text-gold md:size-3.5" aria-hidden />
-            <span className="text-[0.625rem] font-semibold tracking-[0.22em] text-gold md:text-[0.6875rem] lg:text-xs">
+          <span className="badge-glass inline-flex w-full max-w-[12rem] items-center justify-center gap-1.5 rounded-full px-3 py-2 sm:w-auto sm:max-w-none md:px-5 md:py-3 md:gap-2">
+            <Sparkles className="size-2.5 shrink-0 text-gold md:size-3.5" aria-hidden />
+            <span className="text-[0.55rem] font-semibold tracking-[0.22em] text-gold md:text-[0.6875rem] lg:text-xs">
               INTRODUCING ELOTV
             </span>
           </span>
@@ -92,10 +92,10 @@ function Index() {
           <button
             type="button"
             onClick={(event) => event.preventDefault()}
-            className="cta-gold mt-5 inline-flex w-full max-w-[12.5rem] items-center justify-center gap-2 rounded-full px-6 py-3 font-display text-sm font-bold outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background sm:max-w-[13.5rem] md:mt-7 md:py-3.5 md:text-base lg:max-w-[15rem] lg:text-lg"
+            className="cta-gold mt-4 inline-flex w-full max-w-[10rem] items-center justify-center gap-1.5 rounded-full px-5 py-2.5 font-display text-[0.8rem] font-bold outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background sm:max-w-[13.5rem] md:mt-7 md:max-w-none md:py-3.5 md:text-base md:px-6 md:gap-2 lg:max-w-[15rem] lg:text-lg"
           >
             Get Started
-            <ArrowRight className="size-3.5 shrink-0 md:size-4" aria-hidden />
+            <ArrowRight className="size-3 shrink-0 md:size-4" aria-hidden />
           </button>
         </div>
       </section>
