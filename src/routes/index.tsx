@@ -92,10 +92,10 @@ function Index() {
           <button
             type="button"
             onClick={(event) => event.preventDefault()}
-            className="cta-gold mt-4 inline-flex w-full max-w-[10rem] items-center justify-center gap-1.5 rounded-full px-5 py-2.5 font-display text-[0.8rem] font-bold outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background sm:max-w-[13.5rem] md:mt-6 md:max-w-[11rem] md:py-2.5 md:px-5 md:text-sm md:gap-1.5 lg:max-w-[12.5rem] lg:text-[0.95rem]"
+            className="cta-gold mt-4 inline-flex w-full max-w-[10rem] items-center justify-center gap-1.5 rounded-full px-5 py-2.5 font-display text-[0.8rem] font-bold outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background sm:max-w-[13.5rem] md:mt-6 md:max-w-[8.5rem] md:py-2 md:px-4 md:text-xs md:gap-1 lg:max-w-[9.5rem] lg:text-[0.8rem]"
           >
             Get Started
-            <ArrowRight className="size-3 shrink-0 md:size-3.5 lg:size-4" aria-hidden />
+            <ArrowRight className="size-3 shrink-0 md:size-3 lg:size-3.5" aria-hidden />
           </button>
         </div>
       </section>
