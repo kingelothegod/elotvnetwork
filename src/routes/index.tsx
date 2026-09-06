@@ -71,7 +71,7 @@ function Index() {
           <span className="block whitespace-nowrap text-[clamp(1.4rem,7vw,2.5rem)] leading-[1.02] tracking-[-0.02em] text-foreground text-glow-white md:text-[clamp(2.5rem,5vw,3.75rem)] lg:text-[clamp(3rem,4.5vw,4.5rem)]">
             Animated Worlds.
           </span>
-          <span className="mt-1 block whitespace-nowrap bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(1.25rem,6.4vw,2.3rem)] leading-[1.08] tracking-[-0.02em] text-transparent text-glow-gold md:mt-2 md:text-[clamp(2.3rem,4.6vw,3.4rem)] lg:text-[clamp(2.75rem,4.1vw,4.05rem)]">
+          <span className="mt-1 block whitespace-nowrap bg-[linear-gradient(180deg,oklch(0.89_0.13_92),oklch(0.79_0.15_62))] bg-clip-text text-[clamp(1rem,5vw,1.85rem)] leading-[1.08] tracking-[-0.02em] text-transparent text-glow-gold md:mt-2 md:text-[clamp(2.3rem,4.6vw,3.4rem)] lg:text-[clamp(2.75rem,4.1vw,4.05rem)]">
             Own Them Forever.
           </span>
         </h1>
