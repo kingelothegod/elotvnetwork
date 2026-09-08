@@ -1,7 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { ArrowRight, Sparkles } from "lucide-react";
 
-import collageMobile from "@/assets/collage-mobile.jpg";
+import collageMobile from "@/assets/collage-mobile.png";
 import collageWide from "@/assets/collage-wide.jpg";
 import { Motes } from "@/components/Motes";
 
