@@ -294,7 +294,7 @@ Recreate and responsively adapt the design shown in the attached reference.
 
 This project was built with [Lovable](https://lovable.dev).
 
-**Live app**: https://cinematic-worlds-page.lovable.app
+**Live app**: https://elotvnetwork.lovable.app
 
 ## Build with Lovable
 
