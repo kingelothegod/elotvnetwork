@@ -82,13 +82,13 @@ function Index() {
         </h1>
 
         <p className="mt-6 max-w-[18rem] text-balance text-[0.875rem] leading-[1.7] text-muted-foreground sm:max-w-md sm:text-[0.9375rem] md:mt-7 md:max-w-xl md:text-base md:text-pretty lg:max-w-2xl lg:text-balance lg:text-lg lg:leading-[1.65]">
-          Discover amazing animated movies and TV shows{" "}
+          {"Discover amazing animated movies and TV shows "}
           <br className="hidden md:block lg:hidden" />
           <br className="hidden lg:block" />
-          from talented creators. Purchase once and unlock
+          {"from talented creators. Purchase once and unlock "}
           <br className="hidden md:block lg:hidden" />
           <br className="hidden lg:block" />
-          forever even if the Internet goes dark
+          {"forever even if the Internet goes dark"}
         </p>
 
         <div className="mt-7 flex w-full flex-col items-center md:mt-9">
